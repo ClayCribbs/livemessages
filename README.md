@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Repo is meant to serve as a barebones rails template that includes a basic animated sign up page with devise and features a live "gmail style" live chat system.
 
-Things you may want to cover:
+To run the message server locally, in a seperate terminal enter this:
 
-* Ruby version
+rackup private_pub.ru -s thin -E production
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
